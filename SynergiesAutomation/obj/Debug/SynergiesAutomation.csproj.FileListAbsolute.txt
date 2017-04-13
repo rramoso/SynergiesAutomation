@@ -1,0 +1,10 @@
+c:\users\r\documents\visual studio 2015\Projects\SynergiesAutomation\SynergiesAutomation\bin\Debug\SynergiesAutomation.dll
+c:\users\r\documents\visual studio 2015\Projects\SynergiesAutomation\SynergiesAutomation\bin\Debug\SynergiesAutomation.pdb
+c:\users\r\documents\visual studio 2015\Projects\SynergiesAutomation\SynergiesAutomation\obj\Debug\SynergiesAutomation.csprojResolveAssemblyReference.cache
+c:\users\r\documents\visual studio 2015\Projects\SynergiesAutomation\SynergiesAutomation\obj\Debug\SynergiesAutomation.dll
+c:\users\r\documents\visual studio 2015\Projects\SynergiesAutomation\SynergiesAutomation\obj\Debug\SynergiesAutomation.pdb
+c:\users\r\documents\visual studio 2015\Projects\SynergiesAutomation\SynergiesAutomation\bin\Debug\chromedriver.exe
+c:\users\r\documents\visual studio 2015\Projects\SynergiesAutomation\SynergiesAutomation\bin\Debug\WebDriver.dll
+c:\users\r\documents\visual studio 2015\Projects\SynergiesAutomation\SynergiesAutomation\bin\Debug\WebDriver.Support.dll
+c:\users\r\documents\visual studio 2015\Projects\SynergiesAutomation\SynergiesAutomation\bin\Debug\WebDriver.xml
+c:\users\r\documents\visual studio 2015\Projects\SynergiesAutomation\SynergiesAutomation\bin\Debug\WebDriver.Support.xml

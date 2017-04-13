@@ -1,0 +1,13 @@
+c:\users\r\documents\visual studio 2015\Projects\SynergiesAutomation\SynergiesTest\bin\Debug\chromedriver.exe
+c:\users\r\documents\visual studio 2015\Projects\SynergiesAutomation\SynergiesTest\bin\Debug\SynergiesTest.dll
+c:\users\r\documents\visual studio 2015\Projects\SynergiesAutomation\SynergiesTest\bin\Debug\SynergiesTest.pdb
+c:\users\r\documents\visual studio 2015\Projects\SynergiesAutomation\SynergiesTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\r\documents\visual studio 2015\Projects\SynergiesAutomation\SynergiesTest\bin\Debug\SynergiesAutomation.dll
+c:\users\r\documents\visual studio 2015\Projects\SynergiesAutomation\SynergiesTest\bin\Debug\SynergiesAutomation.pdb
+c:\users\r\documents\visual studio 2015\Projects\SynergiesAutomation\SynergiesTest\obj\Debug\SynergiesTest.csprojResolveAssemblyReference.cache
+c:\users\r\documents\visual studio 2015\Projects\SynergiesAutomation\SynergiesTest\obj\Debug\SynergiesTest.dll
+c:\users\r\documents\visual studio 2015\Projects\SynergiesAutomation\SynergiesTest\obj\Debug\SynergiesTest.pdb
+c:\users\r\documents\visual studio 2015\Projects\SynergiesAutomation\SynergiesTest\bin\Debug\WebDriver.dll
+c:\users\r\documents\visual studio 2015\Projects\SynergiesAutomation\SynergiesTest\bin\Debug\WebDriver.xml
+c:\users\r\documents\visual studio 2015\Projects\SynergiesAutomation\SynergiesTest\bin\Debug\WebDriver.Support.dll
+c:\users\r\documents\visual studio 2015\Projects\SynergiesAutomation\SynergiesTest\bin\Debug\WebDriver.Support.xml
